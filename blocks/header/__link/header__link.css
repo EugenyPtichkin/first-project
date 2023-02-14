@@ -1,0 +1,16 @@
+.header__link:link {
+  text-decoration: none; 
+  color: #2f80ed;
+ } 
+ .header__link:visited {
+  text-decoration: none; 
+  color: purple;
+ } 
+ .header__link:hover {
+  text-decoration: none; 
+  color: blue;
+ } 
+ .header__link:active {
+  text-decoration: none; 
+  color: red;
+ } 
